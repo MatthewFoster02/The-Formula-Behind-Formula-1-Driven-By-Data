@@ -1,6 +1,6 @@
 # The Formula Behind Formula 1 - Driven By Data
 
-### This is a Data Madness project for the Data Analysis course (KEN3450) at [Maastricht University] (https://www.maastrichtuniversity.nl/)
+### This is a Data Madness project for the Data Analysis course (KEN3450) at [Maastricht University](https://www.maastrichtuniversity.nl/)
 
 Using the Ergast Developer API (http://ergast.com/mrd/) we are setting out to analyse 3 primary questions:
   1) Does experience in F1 correlate to the frequency of accidents for a driver?
